@@ -1,0 +1,3 @@
+https://github.com/afsartyagi/Employee-dashboard.git    {Employee-dashboard}
+https://github.com/afsartyagi/hospitalmanagement2.git   {hospital-managment}
+https://github.com/afsartyagi/Product-management.git    {product-management}
